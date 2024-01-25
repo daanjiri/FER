@@ -1,0 +1,5 @@
+/home/daanjiri/Desktop/dev/arkangelAi_DJ/uploads/sad.jpeg	Sadness	[295, 60, 78, 104]	
+/home/daanjiri/Desktop/dev/arkangelAi_DJ/uploads/angry.jpg	Anger	[431, 165, 143, 191]	
+/home/daanjiri/Desktop/dev/arkangelAi_DJ/uploads/sad.jpeg	Sadness	[295, 60, 78, 104]	
+/home/daanjiri/Desktop/dev/arkangelAi_DJ/uploads/angry.jpg	Anger	[431, 165, 143, 191]	
+/home/daanjiri/Desktop/dev/arkangelAi_DJ/uploads/sad.jpeg	Sadness	[295, 60, 78, 104]	
